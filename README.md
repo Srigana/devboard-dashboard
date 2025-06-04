@@ -1,4 +1,3 @@
-# devboard-dashboard
 # DevBoard – Developer Productivity Dashboard
 
 A personalized dashboard for developers to track coding progress, job applications, and productivity in one place.
